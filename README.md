@@ -1,1 +1,1 @@
-# New-York-City-Tree-Database
+# New York City Tree Database
